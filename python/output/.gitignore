@@ -1,0 +1,7 @@
+# Generated output files
+*.png
+*.jpg
+*.svg
+*.pdf
+*.json
+!.gitkeep
